@@ -52,7 +52,7 @@ void loop()
   }
   else
   {
-    setColor(0, 255, 0);
+    setColor(0, 255, 12);
   }
 
   Serial.print("Sample OK: ");
